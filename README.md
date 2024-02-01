@@ -2,13 +2,13 @@
 This is a model for predicting superpopulations using microhaplotypes.The traing set is derived from genomic data from 2504 samples of 1000 Genomes Project phase 3.There are 46 available microhaps in this model.
 ## Minimum version requirements
 ### Compulsory
-Python: 3.6.0
-Numpy: 1.8.0
-Pandas: 1.1.0
-Scikit-learn: 0.24
+Python: 3.6.0  
+Numpy: 1.8.0  
+Pandas: 1.1.0  
+Scikit-learn: 0.24  
 SciPy: 1.5.1
 ### Optional
-R: 3.6.1
+R: 3.6.1  
 haplo.stats: 1.7.9
 ## Usage
 ### 1. Input file
